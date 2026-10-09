@@ -30,7 +30,7 @@ BTRMousePlus shows the connection state and battery level of your paired Bluetoo
 
 **Third-party components:** NAudio (MIT), see `ThirdPartyNotices.txt` in the archive and installer.
 
-Author: Lucky Apps. The program is free for personal use. The source code is not published.
+Author: LuckyGreenhorn. The program is free for personal use. The source code is not published.
 
 ## Русский
 
@@ -59,4 +59,4 @@ BTRMousePlus показывает состояние подключения и �
 
 **Сторонние компоненты:** NAudio (MIT), см. `ThirdPartyNotices.txt` в архиве и установщике.
 
-Автор: Lucky Apps. Программа бесплатна для личного использования. Исходный код не публикуется.
+Автор: LuckyGreenhorn. Программа бесплатна для личного использования. Исходный код не публикуется.
