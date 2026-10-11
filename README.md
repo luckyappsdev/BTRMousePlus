@@ -5,7 +5,7 @@
 
 ## English
 
-BTRMousePlus shows the connection state and battery level of your paired Bluetooth devices in the system tray and in a small window, and warns you with sounds when the battery runs low. The charge level is shown if the device reports it to the system; otherwise only the active/inactive state is shown.
+BTRMousePlus shows the connection state and battery level of your paired Bluetooth devices in the system tray and in a small window, and warns you with sounds when the battery runs low. The charge level is shown if the device reports it to the system otherwise only the active/inactive state is shown.
 
 **Features**
 - Tray icon and window: gray = paired but not active, green = active.
@@ -34,7 +34,7 @@ Author: LuckyGreenhorn. The program is free for personal use. The source code is
 
 ## Русский
 
-BTRMousePlus показывает состояние подключения и уровень заряда сопряжённых Bluetooth-устройств в системном трее и в небольшом окне, а когда заряд заканчивается, предупреждает звуком. Уровень заряда показывается, если устройство передаёт его системе; иначе отображается только состояние «активен/неактивен».
+BTRMousePlus показывает состояние подключения и уровень заряда сопряжённых Bluetooth-устройств в системном трее и в небольшом окне, а когда заряд заканчивается, предупреждает звуком. Уровень заряда показывается, если устройство передаёт его системе иначе отображается только состояние «активен/неактивен».
 
 **Возможности**
 - Значок в трее и окно: серый — сопряжено, но не активно, зелёный — активно.
